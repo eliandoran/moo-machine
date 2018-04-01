@@ -5,12 +5,14 @@ The Moo Machine is an April Fools' joke Windows application created back in 2015
 
 ## Summary
 ### Features
-It was designed to be run at startup. Once every minute it will:
+Once started, the application will do the following every minute:
 
  1. Change the desktop wallpaper to one of the eight predefined wallpapers featuring cows.
  2. Play between one and six sounds of cows mooing.
 
 If you want to have a look, the wallpapers and the sounds used are located in the [Resources](Resources) folder.
+
+It was designed to be run at startup and it remains dormant until the system date is April 1st. If the application is run either manually or at startup on another date, it will exit immediately.
 
 ### Dependencies
 The application was developed in Delphi 7, which allows it to work without any dependencies in most Windows operating systems.
