@@ -1,5 +1,5 @@
 <p align="center">
-![moo](Resources/AppIcon.ico)
+![moo](AppIcon.png)
 </p>
 
 # The Moo Machine
