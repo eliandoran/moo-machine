@@ -30,7 +30,7 @@ const
 
   MAX_TIMES_TO_MOO  = 6;
 
-  INITIAL_DELAY     = 600000; // Default: 600000 ms = 10 min
+  INITIAL_DELAY     =  60000; // Default:  60000 ms = 1 min
   MIN_DELAY         = 120000; // Default: 120000 ms = 2 min
   MAX_DELAY         = 300000; // Default: 300000 ms = 5 min
 
