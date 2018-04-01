@@ -1,6 +1,4 @@
-<p align="center">
 ![moo](AppIcon.png)
-</p>
 
 # The Moo Machine
 The Moo Machine is an April Fools' joke Windows application created back in 2015.
